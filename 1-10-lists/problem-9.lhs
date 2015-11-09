@@ -1,3 +1,5 @@
+> module Pack where
+
 > import Prelude
 
 (**) Pack consecutive duplicates of list elements into sublists.
